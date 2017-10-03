@@ -1,5 +1,5 @@
 
-## LTO-start
+## LTO Start
 This page serves as a tactile launcher for SIM LTO services, it's a quick-access page loaded by the web browser whenever technicians need to access it. The start-page includes links to client services, SIM services, and useful tools that are accessed frequently during shift work.
 
 Based on the original design concept by [jnsltk](https://github.com/jnsltk/startpages): 'toosimple'.
