@@ -10,4 +10,6 @@ Pretty simple code here, easy to follow.
 * [fontawesome](http://fontawesome.io/) and [icomoon](https://icomoon.io/) used for vector icons
 * ~ That's about it!
 
-_blazstyn
+Don't work too hard.
+
+_dan
